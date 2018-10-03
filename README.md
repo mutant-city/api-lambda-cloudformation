@@ -3,7 +3,10 @@
 * A simple cloudformation template to create an api endpint that echos the lambda event object
 * This event object contains everything the api gateway passes to the lambda and is useful for further development
 
-
+* A current DEMO can be located here:
+```
+https://6kh5hy0j6h.execute-api.us-west-1.amazonaws.com/v1/test
+```
 
 ## To use
 * Note: AWS-cli must be installed and configured
