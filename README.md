@@ -17,7 +17,7 @@ aws cloudformation create-stack --stack-name lambda-repeater-cf --capabilities C
 3. To view the status run:
 
 ```
-watch -n 5 aws cloudformation describe-stacks --stack-name "lambda-repeater-test-cf"
+watch -n 5 aws cloudformation describe-stacks --stack-name "lambda-repeater-cf"
 ```
 
 4. When you see the `"StackStatus": "CREATE_COMPLETE"` then you should also see an output that contains the URL
