@@ -24,4 +24,4 @@ watch -n 5 aws cloudformation describe-stacks --stack-name "lambda-repeater-test
 
 4. When you see the `"StackStatus": "CREATE_COMPLETE"` then you should also see an output that contains the URL
    - `"OutputKey": "endpointUrl"`
-5. You can navigate to this url and see the output of the event object passed from api gateway to lambda
+5. You can ```curl``` or navigate to this url in the browser and see the output of the event object passed from api gateway to lambda
