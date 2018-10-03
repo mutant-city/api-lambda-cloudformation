@@ -5,7 +5,7 @@
 
 - A current DEMO can be located here:
 
-(https://6kh5hy0j6h.execute-api.us-west-1.amazonaws.com/v1/test)[https://6kh5hy0j6h.execute-api.us-west-1.amazonaws.com/v1/test]
+[https://6kh5hy0j6h.execute-api.us-west-1.amazonaws.com/v1/test](https://6kh5hy0j6h.execute-api.us-west-1.amazonaws.com/v1/test)
 
 ## To use
 
